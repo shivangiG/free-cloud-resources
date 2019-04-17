@@ -21,6 +21,10 @@ _Note: Data is added on 17-April-2019. Free/trial offer may change in future. Ra
 
 Details - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
+### GCP
+
+Details - https://cloud.google.com/free/docs/gcp-free-tier#always-free
+
 
 ## Limited Time Free
 
@@ -50,6 +54,21 @@ Details - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alw
 Details : https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%2312monthsfree
 
 _Note: Only one of the service using t2.micro can be used._
+
+### GCP
+
+**Duration : 12 Months**
+**Limit : 300$**
+
+**Limitation**
+
+You can use all GCP resources, except 
+ - Have more than 8 cores (or virtual CPUS) running at the same time.
+ - Add GPUs to your instances.
+ - Request a quota increase
+ 
+Details : https://cloud.google.com/free/docs/gcp-free-tier#free-trial
+
 
 
 ## Trial Version
